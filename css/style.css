@@ -454,6 +454,7 @@ footer nav a{
 footer img{
   float: right;
   margin: 0 10px;
+  margin-top: 6px;
   width: 20px;
   position: relative;
   top: -2px;
